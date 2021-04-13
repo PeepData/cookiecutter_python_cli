@@ -1,0 +1,4 @@
+{
+  "project_name": "cli_python_template",
+  "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}"
+}

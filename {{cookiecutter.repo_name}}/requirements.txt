@@ -1,0 +1,14 @@
+black
+click
+cryptography
+flake8
+isort
+hdfs
+pre-commit
+PyMySQL
+pytest
+pytest-cov
+python-dotenv
+pytz
+SQLAlchemy
+tox
